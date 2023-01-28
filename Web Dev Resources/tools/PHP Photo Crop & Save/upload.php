@@ -32,6 +32,6 @@ if (isset($_FILES["file"])) {
     <img src="/<?php echo $fileName ?>" id="photo">
     <br><br>
     <button id="crop">Crop Photo</button>
-    <script src="./index.js"></script>
+    <script src="./crop.js"></script>
 </body>
 </html>
